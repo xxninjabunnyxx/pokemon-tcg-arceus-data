@@ -1,0 +1,99 @@
+---
+id: pl4-33
+name: Bronzong
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '45'
+hp: '90'
+types:
+- Metal
+evolvesFrom: Bronzor
+attacks:
+- name: Wide Laser
+  cost:
+  - Metal
+  convertedEnergyCost: 1
+  damage: ''
+  text: This attack does 10 damage to each of your opponent's Pokémon. (Don't apply
+    Weakness and Resistance for Benched Pokémon.)
+- name: Hyper Beam
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.
+weaknesses:
+- type: Fire
+  value: "+20"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: pl4
+  name: Arceus
+  series: Platinum
+  printedTotal: 99
+  total: 111
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AR
+  releaseDate: 2009/11/04
+  updatedAt: 2021/07/15 11:30:00
+  images:
+    symbol: https://images.pokemontcg.io/pl4/symbol.png
+    logo: https://images.pokemontcg.io/pl4/logo.png
+number: '33'
+artist: Masakazu Fukuda
+rarity: Uncommon
+flavorText: It brought rains by opening portals to another world. It was revered as
+  a bringer of plentiful harvests.
+nationalPokedexNumbers:
+- 437
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl4/33.png
+  large: https://images.pokemontcg.io/pl4/33_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl4-33
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.29
+      high: 2.0
+      market: 0.32
+      directLow: 0.23
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.69
+      high: 2.58
+      market: 0.9
+      directLow: 0.69
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl4-33
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.13
+    lowPrice: 0.02
+    trendPrice: 0.18
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.79
+    reverseHoloLow: 0.08
+    reverseHoloTrend: 0.56
+    lowPriceExPlus: 0.04
+    avg1: 0.05
+    avg7: 0.1
+    avg30: 0.14
+    reverseHoloAvg1: 0.99
+    reverseHoloAvg7: 0.47
+    reverseHoloAvg30: 0.46

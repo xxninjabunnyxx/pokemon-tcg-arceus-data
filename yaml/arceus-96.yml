@@ -1,0 +1,84 @@
+---
+id: pl4-96
+name: Arceus LV.X
+supertype: Pokémon
+subtypes:
+- Level-Up
+level: X
+hp: '120'
+types:
+- Colorless
+evolvesFrom: Arceus
+rules:
+- You may have as many of this card in your deck as you like.
+- Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power,
+  or Poké-Body from its previous level.
+abilities:
+- name: Multitype
+  text: Arceus LV.X's type is the same type as its previous Level.
+  type: Poké-Body
+attacks:
+- name: Psychic Bolt
+  cost:
+  - Lightning
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '100'
+  text: Discard a Lightning Energy and a Psychic Energy attached to Arceus.
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl4
+  name: Arceus
+  series: Platinum
+  printedTotal: 99
+  total: 111
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AR
+  releaseDate: 2009/11/04
+  updatedAt: 2021/07/15 11:30:00
+  images:
+    symbol: https://images.pokemontcg.io/pl4/symbol.png
+    logo: https://images.pokemontcg.io/pl4/logo.png
+number: '96'
+artist: Ryo Ueda
+rarity: Rare Holo LV.X
+nationalPokedexNumbers:
+- 493
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl4/96.png
+  large: https://images.pokemontcg.io/pl4/96_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl4-96
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 15.45
+      mid: 21.44
+      high: 51.24
+      market: 24.54
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl4-96
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 12.66
+    lowPrice: 1.5
+    trendPrice: 12.62
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 7.92
+    lowPriceExPlus: 9.0
+    avg1: 6.3
+    avg7: 15.03
+    avg30: 13.14
+    reverseHoloAvg1: 5.0
+    reverseHoloAvg7: 5.79
+    reverseHoloAvg30: 5.54

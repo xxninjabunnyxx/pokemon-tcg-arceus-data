@@ -1,0 +1,101 @@
+---
+id: pl4-14
+name: Bronzong
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '49'
+hp: '90'
+types:
+- Metal
+evolvesFrom: Bronzor
+attacks:
+- name: Oracle Arrow
+  cost:
+  - Metal
+  - Colorless
+  convertedEnergyCost: 2
+  damage: ''
+  text: Choose 1 of your opponent's Pokémon that has any damage counters on it. This
+    attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for
+    Benched Pokémon.)
+- name: Antigravity
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: The Retreat Cost for Bronzong is 0 until the end of your next turn.
+weaknesses:
+- type: Fire
+  value: "+20"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: pl4
+  name: Arceus
+  series: Platinum
+  printedTotal: 99
+  total: 111
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AR
+  releaseDate: 2009/11/04
+  updatedAt: 2021/07/15 11:30:00
+  images:
+    symbol: https://images.pokemontcg.io/pl4/symbol.png
+    logo: https://images.pokemontcg.io/pl4/logo.png
+number: '14'
+artist: Atsuko Nishida
+rarity: Rare
+flavorText: It brought rains by opening portals to another world. It was revered as
+  a bringer of plentiful harvests.
+nationalPokedexNumbers:
+- 437
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl4/14.png
+  large: https://images.pokemontcg.io/pl4/14_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl4-14
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.17
+      mid: 0.5
+      high: 1.69
+      market: 0.68
+      directLow: 0.22
+    reverseHolofoil:
+      low: 0.55
+      mid: 0.8
+      high: 2.49
+      market: 2.49
+      directLow: 0.56
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl4-14
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.7
+    lowPrice: 0.09
+    trendPrice: 0.41
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.99
+    reverseHoloLow: 0.65
+    reverseHoloTrend: 1.0
+    lowPriceExPlus: 0.17
+    avg1: 1.07
+    avg7: 0.5
+    avg30: 0.48
+    reverseHoloAvg1: 0.99
+    reverseHoloAvg7: 1.04
+    reverseHoloAvg30: 0.87

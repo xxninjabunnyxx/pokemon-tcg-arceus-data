@@ -1,0 +1,89 @@
+---
+id: pl4-81
+name: Wingull
+supertype: Pokémon
+subtypes:
+- Basic
+level: '8'
+hp: '50'
+types:
+- Water
+evolvesTo:
+- Pelipper
+attacks:
+- name: Rain Splash
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "+10"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl4
+  name: Arceus
+  series: Platinum
+  printedTotal: 99
+  total: 111
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AR
+  releaseDate: 2009/11/04
+  updatedAt: 2021/07/15 11:30:00
+  images:
+    symbol: https://images.pokemontcg.io/pl4/symbol.png
+    logo: https://images.pokemontcg.io/pl4/logo.png
+number: '81'
+artist: Naoyo Kimura
+rarity: Common
+flavorText: It soars high in the sky, riding on updrafts like a glider. It carries
+  food tucked in its bill.
+nationalPokedexNumbers:
+- 278
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl4/81.png
+  large: https://images.pokemontcg.io/pl4/81_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl4-81
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.03
+      mid: 0.25
+      high: 3.93
+      market: 0.17
+      directLow: 
+    reverseHolofoil:
+      low: 0.99
+      mid: 1.34
+      high: 2.5
+      market: 1.85
+      directLow: 0.9
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl4-81
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.09
+    lowPrice: 0.02
+    trendPrice: 0.13
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.19
+    reverseHoloTrend: 1.04
+    lowPriceExPlus: 0.05
+    avg1: 0.1
+    avg7: 0.08
+    avg30: 0.11
+    reverseHoloAvg1: 0.99
+    reverseHoloAvg7: 1.15
+    reverseHoloAvg30: 0.76
